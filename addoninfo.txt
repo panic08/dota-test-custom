@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	maps			"andrey"
+	"isPlayable"			"1"
+	"HeroGuidesSupported"			"1"
+}
